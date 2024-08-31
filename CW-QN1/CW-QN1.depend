@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725094224 source:c:\users\hp\documents\code blocks\newproject\cw-qn1\main.cpp
+	<iostream>
+	<unordered_map>
+	<string>
+
